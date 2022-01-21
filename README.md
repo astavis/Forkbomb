@@ -10,7 +10,7 @@ Python code that attacks the host
 
 a fork bomb is a denial-of-service attack (Dos) (rabbit v!rus) wherein a process continually replicates itself to deplete available system resources, slowing down or crashing the system due to resource starvation. The system eventually becomes overloaded and is unable to respond to any input .
 
-*Quick representation of real time forkbomb* https://vimeo.com/user164120002/review/668287873/8b92dcaa8f
+*Quick representation of real time forkbomb* https://vimeo.com/668287873
 
 **INFO**
 This puts the host machine's available cpu cores into 100% as it runs. It does not cause permanent harm to the machine 
